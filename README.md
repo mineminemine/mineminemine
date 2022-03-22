@@ -1,4 +1,4 @@
-<p>If you see some of the repos I have that are inactive then it probably means its dead and no longer receive support from me, sorry.</p>
+<p>If you see some of the repos I have that are inactive, then it probably means they're dead and no longer receiving support from me. Sorry.</p>
 
 ***
 
