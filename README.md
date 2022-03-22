@@ -2,4 +2,4 @@
 
 ***
 
-<p>💬 If you have any questions just find me on Discord -- <strong>@crayola#1173</strong></p>
+<p>💬 If you have any questions, just find me on Discord -- <strong>@crayola#1173</strong></p>
